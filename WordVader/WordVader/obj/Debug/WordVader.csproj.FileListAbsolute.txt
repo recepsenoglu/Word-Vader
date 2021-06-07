@@ -1,0 +1,20 @@
+C:\Users\user_\source\repos\WordVader\WordVader\bin\Debug\WordVader.exe.config
+C:\Users\user_\source\repos\WordVader\WordVader\bin\Debug\WordVader.exe
+C:\Users\user_\source\repos\WordVader\WordVader\bin\Debug\WordVader.pdb
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.Form1.resources
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.Properties.Resources.resources
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.csproj.CoreCompileInputs.cache
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.exe
+C:\Users\user_\source\repos\WordVader\WordVader\obj\Debug\WordVader.pdb
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\bin\Debug\WordVader.exe.config
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\bin\Debug\WordVader.exe
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\bin\Debug\WordVader.pdb
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.csprojAssemblyReference.cache
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.Form1.resources
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.Properties.Resources.resources
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.csproj.GenerateResource.cache
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.csproj.CoreCompileInputs.cache
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.exe
+D:\yedek\masaüstü 3\repos\WordVader\WordVader\obj\Debug\WordVader.pdb
